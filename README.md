@@ -1,2 +1,2 @@
 # save-rom
-A repository to store ROMs that I find.
+a repository that stores game ROMs for emulation.
