@@ -1,2 +1,2 @@
 # save-rom
-A repository to store public domain ROMs.
+A repository to store ROMs that I find.
